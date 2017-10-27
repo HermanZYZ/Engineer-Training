@@ -1,0 +1,1277 @@
+Archive member included because of file (symbol)
+
+../distance_bsp/\libhal_bsp.a(alt_iic.o)
+                              obj/default/main.o (alt_ic_isr_register)
+../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_handler)
+../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_iic.o) (alt_irq_active)
+../distance_bsp/\libhal_bsp.a(alt_main.o)
+                              ../distance_bsp//obj/HAL/src/crt0.o (alt_main)
+../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_epcs_flash_init)
+../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_init)
+../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_ioctl)
+../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
+../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_uart_read_fd)
+../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_uart_init)
+../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o) (altera_avalon_uart_read)
+../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o) (altera_avalon_uart_write)
+../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o) (epcs_sector_erase)
+../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o) (alt_alarm_start)
+../distance_bsp/\libhal_bsp.a(alt_close.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_main.o) (close)
+../distance_bsp/\libhal_bsp.a(alt_dev.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_main.o) (_do_ctors)
+../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_main.o) (_do_dtors)
+../distance_bsp/\libhal_bsp.a(alt_errno.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o) (alt_errno)
+../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o) (alt_flash_dev_list)
+../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_main.o) (alt_io_redirect)
+../distance_bsp/\libhal_bsp.a(alt_open.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o) (open)
+../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+../distance_bsp/\libhal_bsp.a(alt_tick.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o) (_alt_tick_rate)
+../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_qsys_irq_init)
+../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+                              ../distance_bsp/\libhal_bsp.a(epcs_commands.o) (alt_avalon_spi_command)
+../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o) (alt_find_dev)
+../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_open.o) (alt_find_file)
+../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_open.o) (alt_get_fd)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_main.o) (atexit)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o) (errno)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o) (memcmp)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+                              ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o) (memcpy)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_find_dev.o) (strlen)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              ../distance_bsp/\libhal_bsp.a(alt_close.o) (__mulsi3)
+../distance_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+alt_irq             0x100             ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+errno               0x4               c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+_atexit0            0x190             c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sdram_BEFORE_EXCEPTION 0x00000000         0x00000020
+sdram            0x00000020         0x01ffffe0
+onchip_memory2_0 0x02004000         0x00004000
+reset            0x02009000         0x00000020
+epcs_flash_controller_0 0x02009020         0x000007e0
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ../distance_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/main.o
+LOAD obj/default/motor_setting.o
+LOAD obj/default/uart.o
+LOAD obj/default/ultrasound.o
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+LOAD ../distance_bsp/\libhal_bsp.a
+END GROUP
+LOAD c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a
+                0x00000000                __alt_mem_sdram = 0x0
+                0x02004000                __alt_mem_onchip_memory2_0 = 0x2004000
+                0x02009000                __alt_mem_epcs_flash_controller_0 = 0x2009000
+
+.entry          0x02009000        0x0
+ *(.entry)
+ .entry         0x02009000        0x0 ../distance_bsp//obj/HAL/src/crt0.o
+                0x02009000                __reset
+
+.exceptions     0x00000020      0x194
+                0x00000020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x00000020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x00000020        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                0x00000020                alt_irq_entry
+ .exceptions.entry.label
+                0x00000020        0x0 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                0x00000020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x00000020       0x54 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x00000074       0x10 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x00000084        0x4 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x00000088        0x4 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x0000008c        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x0000008c        0x8 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x00000094        0x4 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00000098        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00000098        0x0 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x00000098       0x54 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x000000ec       0xc8 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x000000ec                alt_irq_handler
+                0x000001b4                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x00000020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x000001b4     0x46ec
+                0x000001b4                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000001b4       0x38 ../distance_bsp//obj/HAL/src/crt0.o
+                0x000001b4                _start
+ .text          0x000001ec      0x1e4 obj/default/main.o
+                0x000001ec                initialize
+                0x0000024c                callback_func
+                0x000002a4                turn_left
+                0x000002e0                turn_right
+                0x0000031c                forward
+                0x00000358                backward
+                0x00000394                standby
+                0x000003b8                main
+ .text          0x000003d0      0x178 obj/default/motor_setting.o
+                0x000003d0                left_motor_setting
+                0x0000048c                right_motor_setting
+ .text          0x00000548      0x10c obj/default/uart.o
+                0x00000548                uart_init
+                0x00000588                uart_send_byte
+                0x000005f0                uart_receive_byte
+ .text          0x00000654      0x16c obj/default/ultrasound.o
+                0x00000654                ultrasound_init
+                0x00000688                ultrasound_read
+ .text          0x000007c0      0x1d4 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+                0x000007c0                alt_ic_isr_register
+                0x00000810                alt_ic_irq_enable
+                0x000008ac                alt_ic_irq_disable
+                0x0000094c                alt_ic_irq_enabled
+ .text          0x00000994       0xf8 ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                0x00000994                alt_iic_isr_register
+ .text          0x00000a8c        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x00000a8c        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x00000a8c        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x00000a8c       0x6c ../distance_bsp/\libhal_bsp.a(alt_main.o)
+                0x00000a8c                alt_main
+ .text          0x00000af8      0x184 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x00000af8                alt_irq_init
+                0x00000b2c                alt_sys_init
+ .text          0x00000c7c      0x9e4 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+                0x00000c7c                alt_epcs_flash_init
+                0x00001098                alt_epcs_flash_write
+                0x00001318                alt_epcs_flash_get_info
+                0x000013a8                alt_epcs_flash_erase_block
+                0x000014ac                alt_epcs_flash_write_block
+                0x000015c8                alt_epcs_flash_read
+ .text          0x00001660      0x148 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x00001660                altera_avalon_jtag_uart_read_fd
+                0x000016b8                altera_avalon_jtag_uart_write_fd
+                0x00001710                altera_avalon_jtag_uart_close_fd
+                0x00001758                altera_avalon_jtag_uart_ioctl_fd
+ .text          0x000017a8      0x40c ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                0x000017a8                altera_avalon_jtag_uart_init
+                0x00001b40                altera_avalon_jtag_uart_close
+ .text          0x00001bb4       0xf4 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                0x00001bb4                altera_avalon_jtag_uart_ioctl
+ .text          0x00001ca8      0x224 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x00001ca8                altera_avalon_jtag_uart_read
+ .text          0x00001ecc      0x240 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x00001ecc                altera_avalon_jtag_uart_write
+ .text          0x0000210c      0x100 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                0x0000217c                alt_avalon_timer_sc_init
+ .text          0x0000220c       0xf8 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+                0x0000220c                altera_avalon_uart_read_fd
+                0x00002264                altera_avalon_uart_write_fd
+                0x000022bc                altera_avalon_uart_close_fd
+ .text          0x00002304      0x400 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+                0x00002304                altera_avalon_uart_init
+                0x000026a4                altera_avalon_uart_close
+ .text          0x00002704      0x290 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+                0x00002704                altera_avalon_uart_read
+ .text          0x00002994      0x228 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+                0x00002994                altera_avalon_uart_write
+ .text          0x00002bbc      0x6d4 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+                0x00002bbc                epcs_read_status_register
+                0x00002c1c                epcs_sector_erase
+                0x00002d84                epcs_read_buffer
+                0x00002ed0                epcs_write_enable
+                0x00002f20                epcs_write_status_register
+                0x00002f84                epcs_write_buffer
+                0x000030f4                epcs_read_electronic_signature
+                0x00003160                epcs_read_device_id
+                0x000031e0                epcs_enter_4_bytes_mode
+                0x00003238                epcs_exit_4_bytes_mode
+ .text          0x00003290      0x154 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+                0x00003290                alt_alarm_start
+ .text          0x000033e4      0x160 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+                0x000033e4                close
+ .text          0x00003544       0x2c ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x00003570      0x114 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x00003570                alt_dev_llist_insert
+ .text          0x00003684       0x64 ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+                0x00003684                _do_ctors
+ .text          0x000036e8       0x64 ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+                0x000036e8                _do_dtors
+ .text          0x0000374c        0x0 ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x0000374c        0x0 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x0000374c       0xd0 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+                0x0000374c                alt_flash_open_dev
+                0x000037c8                alt_flash_close_dev
+ .text          0x0000381c      0x150 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                0x000038f4                alt_io_redirect
+ .text          0x0000396c      0x2e4 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+                0x00003a64                open
+ .text          0x00003c50       0x78 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x00003c50                alt_release_fd
+ .text          0x00003cc8      0x1a4 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+                0x00003cc8                alt_alarm_stop
+                0x00003d60                alt_tick
+ .text          0x00003e6c       0x20 ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+                0x00003e6c                altera_nios2_qsys_irq_init
+ .text          0x00003e8c      0x238 ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+                0x00003e8c                alt_avalon_spi_command
+ .text          0x000040c4       0x94 ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x000040c4                alt_find_dev
+ .text          0x00004158      0x120 ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+                0x00004158                alt_find_file
+ .text          0x00004278       0xd0 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+                0x00004278                alt_get_fd
+ .text          0x00004348       0x14 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                0x00004348                atexit
+ .text          0x0000435c       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                0x0000435c                exit
+ .text          0x00004394        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .text          0x00004394        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .text          0x00004394       0x74 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+                0x00004394                memcmp
+ .text          0x00004408       0xa0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+                0x00004408                memcpy
+ .text          0x000044a8       0x74 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+                0x000044a8                strlen
+ .text          0x0000451c      0x134 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                0x0000451c                __register_exitproc
+ .text          0x00004650      0x1b4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                0x00004654                __call_exitprocs
+ .text          0x00004804       0x38 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x00004804                __mulsi3
+ .text          0x0000483c       0x60 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0000487c                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x0000489c                PROVIDE (__etext, ABSOLUTE (.))
+                0x0000489c                PROVIDE (_etext, ABSOLUTE (.))
+                0x0000489c                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000489c                . = ALIGN (0x4)
+                0x0000489c                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x0000489c                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x0000489c                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x0000489c                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x0000489c                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x0000489c                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table)
+ *(.dynamic)
+                0x0000489c                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+ .ctors.65535   0x0000489c        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                0x000048a0                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x000048a0                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x000048a0                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x000048a0                . = ALIGN (0x4)
+
+.rodata         0x000048a0       0xc4
+                0x000048a0                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x000048a0                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000048a0       0x14 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .rodata        0x000048b4       0xa0 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .rodata        0x00004954        0xc ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .rodata.str1.4
+                0x00004960        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ *(.rodata1)
+                0x00004964                . = ALIGN (0x4)
+                0x00004964                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x000048a0                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x00004964     0x1afc
+                0x00004964                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x00004964                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00004964        0x0 ../distance_bsp//obj/HAL/src/crt0.o
+ .data          0x00004964        0x0 obj/default/main.o
+ .data          0x00004964        0x0 obj/default/motor_setting.o
+ .data          0x00004964        0x0 obj/default/uart.o
+ .data          0x00004964        0x0 obj/default/ultrasound.o
+ .data          0x00004964        0x0 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .data          0x00004964        0x0 ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x00004964        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x00004964        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x00004964        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x00004964        0x0 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x00004964     0x14fc ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .data          0x00005e60        0x0 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x00005e60      0x1a8 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+                0x00005e60                alt_dev_null
+                0x00005e88                alt_fd_list
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .data          0x00006008        0x0 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .data          0x00006008        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .data          0x00006008        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .data          0x00006008      0x400 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .data          0x00006408        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .data          0x00006408        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .data          0x00006408        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .data          0x00006408        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .data          0x00006408        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .data          0x00006408        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .data          0x00006408        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x00006408        0x0 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0000e408                _gp = ABSOLUTE ((. + 0x8000))
+                0x0000e408                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x00006408       0x24 obj/default/main.o
+                0x00006408                duty1
+                0x0000640c                duty2
+                0x00006410                period1
+                0x00006414                enable1
+                0x00006418                duty3
+                0x0000641c                duty4
+                0x00006420                period2
+                0x00006424                enable2
+ .sdata         0x0000642c        0x4 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000642c                alt_priority_mask
+ .sdata         0x00006430       0x14 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+                0x00006430                alt_fs_list
+                0x00006438                alt_dev_list
+                0x00006440                alt_max_fd
+ .sdata         0x00006444        0x4 ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+                0x00006444                alt_errno
+ .sdata         0x00006448        0x8 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+                0x00006448                alt_flash_dev_list
+ .sdata         0x00006450        0x8 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+                0x00006450                alt_alarm_list
+ .sdata         0x00006458        0x8 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                0x00006458                _impure_ptr
+                0x0000645c                _global_impure_ptr
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x00006460                . = ALIGN (0x4)
+                0x00006460                _edata = ABSOLUTE (.)
+                0x00006460                PROVIDE (edata, ABSOLUTE (.))
+                0x00006460                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x00004964                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x00006460      0x2bc
+                0x00006460                __bss_start = ABSOLUTE (.)
+                0x00006460                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x00006460                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x00006460       0x10 obj/default/main.o
+                0x00006460                phase1
+                0x00006464                phase2
+                0x00006468                phase3
+                0x0000646c                phase4
+ .sbss          0x00006470        0x4 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x00006470                alt_irq_active
+ .sbss          0x00006474        0xc ../distance_bsp/\libhal_bsp.a(alt_main.o)
+                0x00006474                alt_argc
+                0x00006478                alt_argv
+                0x0000647c                alt_envp
+ .sbss          0x00006480        0x8 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+                0x00006480                _alt_tick_rate
+                0x00006484                _alt_nticks
+ .sbss          0x00006488        0x4 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                0x00006488                errno
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x0000648c                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x0000648c                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000648c        0x0 ../distance_bsp//obj/HAL/src/crt0.o
+ .bss           0x0000648c        0x0 obj/default/main.o
+ .bss           0x0000648c        0x0 obj/default/motor_setting.o
+ .bss           0x0000648c        0x0 obj/default/uart.o
+ .bss           0x0000648c        0x0 obj/default/ultrasound.o
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000648c        0x0 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x0000648c        0x0 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+ COMMON         0x0000648c      0x100 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x0000648c                alt_irq
+ COMMON         0x0000658c      0x190 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                0x0000658c                _atexit0
+                0x0000671c                . = ALIGN (0x4)
+                0x0000671c                __bss_end = ABSOLUTE (.)
+
+.sdram          0x0000671c        0x0
+                0x0000671c                PROVIDE (_alt_partition_sdram_start, ABSOLUTE (.))
+ *(.sdram. sdram.*)
+                0x0000671c                . = ALIGN (0x4)
+                0x0000671c                PROVIDE (_alt_partition_sdram_end, ABSOLUTE (.))
+                0x0000671c                _end = ABSOLUTE (.)
+                0x0000671c                end = ABSOLUTE (.)
+                0x0000671c                __alt_stack_base = ABSOLUTE (.)
+                0x0000671c                PROVIDE (_alt_partition_sdram_load_addr, LOADADDR (.sdram))
+
+.onchip_memory2_0
+                0x02004000        0x0
+                0x02004000                PROVIDE (_alt_partition_onchip_memory2_0_start, ABSOLUTE (.))
+ *(.onchip_memory2_0. onchip_memory2_0.*)
+                0x02004000                . = ALIGN (0x4)
+                0x02004000                PROVIDE (_alt_partition_onchip_memory2_0_end, ABSOLUTE (.))
+                0x02004000                PROVIDE (_alt_partition_onchip_memory2_0_load_addr, LOADADDR (.onchip_memory2_0))
+
+.epcs_flash_controller_0
+                0x02009020        0x0
+                0x02009020                PROVIDE (_alt_partition_epcs_flash_controller_0_start, ABSOLUTE (.))
+ *(.epcs_flash_controller_0. epcs_flash_controller_0.*)
+                0x02009020                . = ALIGN (0x4)
+                0x02009020                PROVIDE (_alt_partition_epcs_flash_controller_0_end, ABSOLUTE (.))
+                0x02009020                PROVIDE (_alt_partition_epcs_flash_controller_0_load_addr, LOADADDR (.epcs_flash_controller_0))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x26
+ *(.comment)
+ .comment       0x00000000       0x26 obj/default/main.o
+                                 0x27 (size before relaxing)
+ .comment       0x00000000       0x27 obj/default/motor_setting.o
+ .comment       0x00000000       0x27 obj/default/uart.o
+ .comment       0x00000000       0x27 obj/default/ultrasound.o
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x00000000       0x27 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x650
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 ../distance_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x00000020       0x20 obj/default/main.o
+ .debug_aranges
+                0x00000040       0x20 obj/default/motor_setting.o
+ .debug_aranges
+                0x00000060       0x20 obj/default/uart.o
+ .debug_aranges
+                0x00000080       0x20 obj/default/ultrasound.o
+ .debug_aranges
+                0x000000a0       0x20 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x000000c0       0x20 ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x000000e0       0x30 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x00000110       0x28 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x00000138       0x20 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000158       0x20 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000178       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .debug_aranges
+                0x00000198       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x000001b8       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_aranges
+                0x000001d8       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_aranges
+                0x000001f8       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x00000218       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x00000238       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_aranges
+                0x00000258       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_aranges
+                0x00000278       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_aranges
+                0x00000298       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_aranges
+                0x000002b8       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_aranges
+                0x000002d8       0x20 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .debug_aranges
+                0x000002f8       0x20 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_aranges
+                0x00000318       0x20 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x00000338       0x20 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x00000358       0x20 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000378       0x20 ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x00000398       0x20 ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x000003b8       0x38 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x000003f0       0x20 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_aranges
+                0x00000410       0x20 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x00000430       0x20 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x00000450       0x20 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000470       0x20 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x00000490       0x20 ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_aranges
+                0x000004b0       0x20 ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .debug_aranges
+                0x000004d0       0x20 ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x000004f0       0x20 ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x00000510       0x20 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x00000530       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x00000550       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000570       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x00000590       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x000005b0       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x000005d0       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x000005f0       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000610       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x00000630       0x20 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+                0x00000000      0xc89
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x102 obj/default/main.o
+ .debug_pubnames
+                0x00000102       0x41 obj/default/motor_setting.o
+ .debug_pubnames
+                0x00000143       0x49 obj/default/uart.o
+ .debug_pubnames
+                0x0000018c       0x3a obj/default/ultrasound.o
+ .debug_pubnames
+                0x000001c6       0x6e ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_pubnames
+                0x00000234       0x2b ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_pubnames
+                0x0000025f       0x32 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_pubnames
+                0x00000291       0x3b ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_pubnames
+                0x000002cc       0x46 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_pubnames
+                0x00000312       0x34 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_pubnames
+                0x00000346       0xb5 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .debug_pubnames
+                0x000003fb       0xa5 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_pubnames
+                0x000004a0       0x55 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_pubnames
+                0x000004f5       0x34 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_pubnames
+                0x00000529       0x33 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_pubnames
+                0x0000055c       0x34 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_pubnames
+                0x00000590       0x2f ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_pubnames
+                0x000005bf       0x71 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_pubnames
+                0x00000630       0x4b ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_pubnames
+                0x0000067b       0x2e ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_pubnames
+                0x000006a9       0x2f ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_pubnames
+                0x000006d8      0x118 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .debug_pubnames
+                0x000007f0       0x26 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_pubnames
+                0x00000816       0x1c ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_pubnames
+                0x00000832       0x63 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_pubnames
+                0x00000895       0x2b ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_pubnames
+                0x000008c0       0x20 ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_pubnames
+                0x000008e0       0x20 ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_pubnames
+                0x00000900       0x20 ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_pubnames
+                0x00000920       0x58 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_pubnames
+                0x00000978       0x26 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_pubnames
+                0x0000099e       0x1b ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_pubnames
+                0x000009b9       0x25 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_pubnames
+                0x000009de       0x68 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_pubnames
+                0x00000a46       0x31 ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_pubnames
+                0x00000a77       0x2d ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .debug_pubnames
+                0x00000aa4       0x23 ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_pubnames
+                0x00000ac7       0x24 ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_pubnames
+                0x00000aeb       0x21 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_pubnames
+                0x00000b0c       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_pubnames
+                0x00000b36       0x1b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_pubnames
+                0x00000b51       0x39 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_pubnames
+                0x00000b8a       0x1c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_pubnames
+                0x00000ba6       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_pubnames
+                0x00000bc3       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_pubnames
+                0x00000be0       0x1d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_pubnames
+                0x00000bfd       0x2a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_pubnames
+                0x00000c27       0x27 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_pubnames
+                0x00000c4e       0x1f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_pubnames
+                0x00000c6d       0x1c ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_info     0x00000000     0xd0bd
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x4e ../distance_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000004e      0x2cd obj/default/main.o
+ .debug_info    0x0000031b      0x22b obj/default/motor_setting.o
+ .debug_info    0x00000546      0x236 obj/default/uart.o
+ .debug_info    0x0000077c      0x128 obj/default/ultrasound.o
+ .debug_info    0x000008a4      0x462 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x00000d06      0x2e3 ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x00000fe9       0x53 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000103c      0x244 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x00001280      0x136 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x000013b6      0x1f4 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x000015aa      0xcd8 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00002282      0xb78 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .debug_info    0x00002dfa      0x7a8 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x000035a2      0x5d0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_info    0x00003b72      0x412 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_info    0x00003f84      0x515 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x00004499      0x50d ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x000049a6      0x35a ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_info    0x00004d00      0x60b ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_info    0x0000530b      0x4dd ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_info    0x000057e8      0x491 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_info    0x00005c79      0x48f ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_info    0x00006108      0x60b ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .debug_info    0x00006713      0x411 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_info    0x00006b24      0x436 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x00006f5a      0x64e ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x000075a8      0x286 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x0000782e       0xde ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x0000790c       0xdd ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x000079e9      0x133 ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x00007b1c       0x59 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x00007b75      0x568 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_info    0x000080dd      0x664 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x00008741      0x4f4 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_info    0x00008c35      0x3c1 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x00008ff6      0x3cd ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_info    0x000093c3      0x132 ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_info    0x000094f5      0x278 ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .debug_info    0x0000976d      0x3e7 ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x00009b54      0x3ee ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x00009f42      0x42f ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x0000a371      0x181 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_info    0x0000a4f2      0x93f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_info    0x0000ae31      0x93d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_info    0x0000b76e       0x8c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_info    0x0000b7fa      0x115 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_info    0x0000b90f      0x106 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_info    0x0000ba15       0xdb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_info    0x0000baf0      0x99c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_info    0x0000c48c      0x9e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000ce6e       0xf3 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x0000cf61      0x15c ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x00000000     0x3033
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x14 ../distance_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x00000014       0x8e obj/default/main.o
+ .debug_abbrev  0x000000a2       0x81 obj/default/motor_setting.o
+ .debug_abbrev  0x00000123       0xcc obj/default/uart.o
+ .debug_abbrev  0x000001ef       0x6d obj/default/ultrasound.o
+ .debug_abbrev  0x0000025c      0x134 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x00000390      0x14e ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x000004de       0x12 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x000004f0      0x10c ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x000005fc       0x44 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x00000640       0xb7 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x000006f7      0x167 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000085e      0x1bf ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .debug_abbrev  0x00000a1d       0xf7 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00000b14      0x17c ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_abbrev  0x00000c90       0xf0 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_abbrev  0x00000d80      0x191 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x00000f11      0x18d ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x0000109e      0x137 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_abbrev  0x000011d5       0xe8 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_abbrev  0x000012bd      0x148 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_abbrev  0x00001405      0x174 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_abbrev  0x00001579      0x17b ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_abbrev  0x000016f4      0x145 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .debug_abbrev  0x00001839      0x172 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_abbrev  0x000019ab       0xfb ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00001aa6       0xc7 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x00001b6d       0xf6 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x00001c63       0x76 ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00001cd9       0x76 ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x00001d4f       0x5e ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00001dad       0x12 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x00001dbf      0x121 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_abbrev  0x00001ee0       0xf0 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x00001fd0      0x112 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x000020e2       0xc1 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x000021a3      0x150 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x000022f3       0x3f ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_abbrev  0x00002332       0x7c ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .debug_abbrev  0x000023ae       0xcf ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x0000247d       0xcf ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x0000254c       0xfb ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x00002647       0xb7 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x000026fe      0x16e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000286c      0x157 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x000029c3       0x3b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x000029fe       0x7c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00002a7a       0xb5 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x00002b2f       0x8b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00002bba      0x1ae c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00002d68      0x1de c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00002f46       0x7b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x00002fc1       0x72 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x00000000     0x8278
+ *(.debug_line)
+ .debug_line    0x00000000       0x51 ../distance_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000051      0x34d obj/default/main.o
+ .debug_line    0x0000039e      0x134 obj/default/motor_setting.o
+ .debug_line    0x000004d2      0x300 obj/default/uart.o
+ .debug_line    0x000007d2       0xf9 obj/default/ultrasound.o
+ .debug_line    0x000008cb      0x2c8 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x00000b93      0x249 ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x00000ddc       0x6b ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x00000e47      0x248 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x0000108f       0x72 ../distance_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x00001101      0x2ca ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x000013cb      0x390 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000175b      0x6ef ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .debug_line    0x00001e4a      0x217 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x00002061      0x4ab ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_line    0x0000250c      0x317 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_line    0x00002823      0x3f7 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x00002c1a      0x405 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000301f      0x2b3 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_line    0x000032d2      0x1d2 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_line    0x000034a4      0x492 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_line    0x00003936      0x404 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_line    0x00003d3a      0x3e5 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_line    0x0000411f      0x408 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .debug_line    0x00004527      0x2dc ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_line    0x00004803      0x299 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x00004a9c      0x254 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x00004cf0      0x25a ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x00004f4a       0x83 ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x00004fcd       0x83 ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x00005050      0x1aa ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x000051fa       0xab ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x000052a5      0x268 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_line    0x0000550d      0x2b4 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x000057c1      0x2ff ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_line    0x00005ac0       0xed ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x00005bad      0x2dc ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_line    0x00005e89      0x1ce ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_line    0x00006057      0x1f2 ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .debug_line    0x00006249      0x26b ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x000064b4      0x27c ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x00006730      0x297 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x000069c7      0x203 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_line    0x00006bca      0x23b c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_line    0x00006e05      0x230 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+ .debug_line    0x00007035      0x1e2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+ .debug_line    0x00007217      0x2a2 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_line    0x000074b9      0x1af c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_line    0x00007668      0x270 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_line    0x000078d8      0x316 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_line    0x00007bee      0x36a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x00007f58      0x11a c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x00008072      0x206 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x00000000      0xe54
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xf0 obj/default/main.o
+ .debug_frame   0x000000f0       0x48 obj/default/motor_setting.o
+ .debug_frame   0x00000138       0x64 obj/default/uart.o
+ .debug_frame   0x0000019c       0x48 obj/default/ultrasound.o
+ .debug_frame   0x000001e4       0x80 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x00000264       0x2c ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x00000290       0x2c ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x000002bc       0x2c ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x000002e8       0x64 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000034c      0x128 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .debug_frame   0x00000474       0x80 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x000004f4       0x80 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_frame   0x00000574       0x2c ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_frame   0x000005a0       0x2c ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x000005cc       0x2c ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x000005f8       0x48 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_frame   0x00000640       0x64 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_frame   0x000006a4       0x9c ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_frame   0x00000740       0x48 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_frame   0x00000788       0x48 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_frame   0x000007d0      0x160 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .debug_frame   0x00000930       0x2c ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_frame   0x0000095c       0x48 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x000009a4       0x2c ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x000009d0       0x48 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x00000a18       0x2c ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x00000a44       0x2c ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x00000a70       0x48 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_frame   0x00000ab8       0x4c ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x00000b04       0x68 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_frame   0x00000b6c       0x30 ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x00000b9c       0x48 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x00000be4       0x2c ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_frame   0x00000c10       0x2c ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .debug_frame   0x00000c3c       0x2c ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000c68       0x2c ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x00000c94       0x30 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x00000cc4       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000ce4       0x28 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000d0c       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000d2c       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000d4c       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000d6c       0x34 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000da0       0x4c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000dec       0x20 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x00000e0c       0x48 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x00000000      0xd3e
+ *(.debug_str)
+ .debug_str     0x00000000       0x12 obj/default/main.o
+ .debug_str     0x00000012       0x35 obj/default/motor_setting.o
+ .debug_str     0x00000047       0x1a obj/default/uart.o
+ .debug_str     0x00000061       0x18 ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_str     0x00000079       0x1a ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_str     0x00000093       0x12 ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_str     0x000000a5       0x12 ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_str     0x000000b7       0x40 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_str     0x000000f7       0x90 ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .debug_str     0x00000187       0x12 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_str     0x00000199       0x1a ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_str     0x000001b3       0x12 ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_str     0x000001c5       0x1a ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_str     0x000001df       0x1a ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_str     0x000001f9       0x12 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_str     0x0000020b       0x12 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_str     0x0000021d       0x19 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_str     0x00000236       0x1a ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_str     0x00000250       0x1a ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_str     0x0000026a       0x2e ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .debug_str     0x00000298       0x23 ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_str     0x000002bb       0x12 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_str     0x000002cd       0x12 ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_str     0x000002df       0x12 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_str     0x000002f1       0x12 ../distance_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_str     0x00000303       0x2d ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_str     0x00000330       0x12 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_str     0x00000342       0x12 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_str     0x00000354       0x1a ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_str     0x0000036e       0x12 ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_str     0x00000380       0x12 ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_str     0x00000392       0x12 ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_str     0x000003a4       0x12 ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_str     0x000003b6      0x187 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+                                0x1cd (size before relaxing)
+ .debug_str     0x0000053d      0x387 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+                                0x51a (size before relaxing)
+ .debug_str     0x000008c4       0xdf c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-impure.o)
+                                0x528 (size before relaxing)
+ .debug_str     0x000009a3       0x40 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-int_errno.o)
+                                0x171 (size before relaxing)
+ .debug_str     0x000009e3       0xe3 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+                                0x178 (size before relaxing)
+ .debug_str     0x00000ac6       0x6c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+                                0x136 (size before relaxing)
+ .debug_str     0x00000b32       0x52 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+                                0x18b (size before relaxing)
+ .debug_str     0x00000b84       0x54 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+                                0x532 (size before relaxing)
+ .debug_str     0x00000bd8       0x7e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+                                0x55c (size before relaxing)
+ .debug_str     0x00000c56       0xcc c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                0x175 (size before relaxing)
+ .debug_str     0x00000d22       0x1c ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_loc      0x00000000     0x15fc
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x158 obj/default/main.o
+ .debug_loc     0x00000158       0x56 obj/default/motor_setting.o
+ .debug_loc     0x000001ae       0x81 obj/default/uart.o
+ .debug_loc     0x0000022f       0x56 obj/default/ultrasound.o
+ .debug_loc     0x00000285       0xac ../distance_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_loc     0x00000331       0x2b ../distance_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_loc     0x0000035c       0x2b ../distance_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_loc     0x00000387       0x2b ../distance_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_loc     0x000003b2       0x81 ../distance_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x00000433      0x1af ../distance_bsp/\libhal_bsp.a(altera_avalon_epcs_flash_controller.o)
+ .debug_loc     0x000005e2       0xac ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_loc     0x0000068e       0xac ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_loc     0x0000073a       0x2b ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_loc     0x00000765       0x2b ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_loc     0x00000790       0x2b ../distance_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_loc     0x000007bb       0x56 ../distance_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_loc     0x00000811       0x81 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_loc     0x00000892       0xd7 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_loc     0x00000969       0x57 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_loc     0x000009c0       0x56 ../distance_bsp/\libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_loc     0x00000a16      0x204 ../distance_bsp/\libhal_bsp.a(epcs_commands.o)
+ .debug_loc     0x00000c1a       0x2b ../distance_bsp/\libhal_bsp.a(alt_alarm_start.o)
+ .debug_loc     0x00000c45       0x56 ../distance_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_loc     0x00000c9b       0x2b ../distance_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_loc     0x00000cc6       0x56 ../distance_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x00000d1c       0x2b ../distance_bsp/\libhal_bsp.a(alt_do_ctors.o)
+ .debug_loc     0x00000d47       0x2b ../distance_bsp/\libhal_bsp.a(alt_do_dtors.o)
+ .debug_loc     0x00000d72       0x56 ../distance_bsp/\libhal_bsp.a(alt_flash_dev.o)
+ .debug_loc     0x00000dc8       0x56 ../distance_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_loc     0x00000e1e       0x81 ../distance_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_loc     0x00000e9f       0x2b ../distance_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_loc     0x00000eca       0x56 ../distance_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_loc     0x00000f20       0x2b ../distance_bsp/\libhal_bsp.a(altera_nios2_qsys_irq.o)
+ .debug_loc     0x00000f4b       0x2b ../distance_bsp/\libhal_bsp.a(altera_avalon_spi.o)
+ .debug_loc     0x00000f76       0x2b ../distance_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_loc     0x00000fa1       0x2b ../distance_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_loc     0x00000fcc       0x2b ../distance_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_loc     0x00000ff7       0x1e c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-atexit.o)
+ .debug_loc     0x00001015       0x3d c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-exit.o)
+ .debug_loc     0x00001052      0x114 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x00001166       0xca c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00001230       0x3c c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000126c      0x120 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__atexit.o)
+ .debug_loc     0x0000138c      0x1cb c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00001557       0x4f c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x000015a6       0x56 ../distance_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x00000000       0x10
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x00000000       0x10 ../distance_bsp//obj/HAL/src/crt0.o
+                0x02000000                __alt_data_end = 0x2000000
+                0x02000000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x0000671c                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x0000671c                PROVIDE (__alt_heap_start, end)
+                0x02000000                PROVIDE (__alt_heap_limit, 0x2000000)
+OUTPUT(distance.elf elf32-littlenios2)
+
+.debug_ranges   0x00000000       0x70
+ .debug_ranges  0x00000000       0x28 ../distance_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x00000028       0x30 ../distance_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x00000058       0x18 c:/altera/13.0sp1/nios2eds/bin/gnu/h-i686-mingw32/bin/../lib/gcc/nios2-elf/4.1.2/../../../../nios2-elf/lib/mno-hw-mul\libc.a(lib_a-__call_atexit.o)
